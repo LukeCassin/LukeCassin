@@ -7,6 +7,9 @@ Currently building real-world cloud projects:
 - Coming Soon...
 
 
+West Midlands, UK
+mrlcassin@gmail.com
+
 <!--
 **LukeCassin/LukeCassin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
