@@ -1,7 +1,7 @@
 ## Hi there, I'm Luke 👋
 "AWS Cloud Practitioner | Studying Solutions Architect"
 
-Currently building real-world projects:
+Currently building real-world cloud projects:
 
 
 <!--
