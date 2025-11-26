@@ -4,7 +4,8 @@ AWS Cloud Practitioner | Studying Solutions Architect
 Currently building real-world cloud projects:
 
 ### Current Projects
-- Coming Soon...
+Hosting a static website on AWS using S3 and Cloudfront with DNS configuration - luke-cassin.tech
+- More Coming Soon...
 
 
 West Midlands, UK
